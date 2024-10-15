@@ -456,7 +456,7 @@ footer{
 }
 
 /* media queries */
-@media (max-width:1024px){
+/* @media (max-width:1024px){
     .logo a {
         font-size: 3rem;
     }
@@ -464,4 +464,4 @@ footer{
         width: 312px;
         height: 69px;  
     }
-}
+} */
